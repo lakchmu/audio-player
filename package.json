@@ -6,7 +6,11 @@
   "license": "MIT",
   "dependencies": {
     "@zeit/next-sass": "^1.0.1",
+    "aws-sdk": "^2.594.0",
+    "axios": "^0.19.0",
     "bulma": "^0.8.0",
+    "dynamodb-admin": "^3.2.0",
+    "isomorphic-unfetch": "^3.0.0",
     "next": "^9.1.6",
     "node-sass": "^4.13.0",
     "react": "^16.12.0",

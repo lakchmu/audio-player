@@ -1,0 +1,232 @@
+[
+  {
+    "PK": {
+      "S": "SONG#3134ce5d-a27a-4f38-92ec-e1b9943ca519"
+    },
+    "SK": {
+      "S": "#METADATA#3134ce5d-a27a-4f38-92ec-e1b9943ca519"
+    },
+    "title": {
+      "S": "Consectetur dolor et aute anim officia voluptate labore cillum culpa velit."
+    },
+    "author": {
+      "S": "Logan"
+    },
+    "duration": {
+      "N": "595"
+    },
+    "genre": {
+      "S": "Country"
+    },
+    "songPath": {
+      "S": "path"
+    }
+  },
+  {
+    "PK": {
+      "S": "SONG#3696f05e-7097-4955-b755-8f8c36dc3a7e"
+    },
+    "SK": {
+      "S": "#METADATA#3696f05e-7097-4955-b755-8f8c36dc3a7e"
+    },
+    "title": {
+      "S": "Reprehenderit eiusmod culpa enim reprehenderit anim."
+    },
+    "author": {
+      "S": "Wheeler"
+    },
+    "duration": {
+      "N": "585"
+    },
+    "genre": {
+      "S": "Folk"
+    },
+    "songPath": {
+      "S": "path"
+    }
+  },
+  {
+    "PK": {
+      "S": "SONG#7fb78510-355e-4411-abfb-58c874c3b006"
+    },
+    "SK": {
+      "S": "#METADATA#7fb78510-355e-4411-abfb-58c874c3b006"
+    },
+    "title": {
+      "S": "Eu incididunt laborum Lorem aliqua occaecat enim."
+    },
+    "author": {
+      "S": "Diaz"
+    },
+    "duration": {
+      "N": "504"
+    },
+    "genre": {
+      "S": "Electronic"
+    },
+    "songPath": {
+      "S": "path"
+    }
+  },
+  {
+    "PK": {
+      "S": "SONG#98177a05-9014-4e00-ac15-9c9981119978"
+    },
+    "SK": {
+      "S": "#METADATA#98177a05-9014-4e00-ac15-9c9981119978"
+    },
+    "title": {
+      "S": "Deserunt incididunt fugiat labore qui reprehenderit quis."
+    },
+    "author": {
+      "S": "Combs"
+    },
+    "duration": {
+      "N": "3"
+    },
+    "genre": {
+      "S": "Country"
+    },
+    "songPath": {
+      "S": "path"
+    }
+  },
+  {
+    "PK": {
+      "S": "SONG#c35e7909-82d2-4f1d-b2aa-7fdd4f148191"
+    },
+    "SK": {
+      "S": "#METADATA#c35e7909-82d2-4f1d-b2aa-7fdd4f148191"
+    },
+    "title": {
+      "S": "Proident enim commodo proident nisi qui nostrud dolore pariatur officia adipisicing do."
+    },
+    "author": {
+      "S": "Andrews"
+    },
+    "duration": {
+      "N": "379"
+    },
+    "genre": {
+      "S": "Country"
+    },
+    "songPath": {
+      "S": "path"
+    }
+  },
+  {
+    "PK": {
+      "S": "SONG#e8e2594c-f2fb-4cf1-9b1e-d6fbb7c76724"
+    },
+    "SK": {
+      "S": "#METADATA#e8e2594c-f2fb-4cf1-9b1e-d6fbb7c76724"
+    },
+    "title": {
+      "S": "Officia qui fugiat nisi dolor dolore minim duis pariatur."
+    },
+    "author": {
+      "S": "Brady"
+    },
+    "duration": {
+      "N": "251"
+    },
+    "genre": {
+      "S": "Electronic"
+    },
+    "songPath": {
+      "S": "path"
+    }
+  },
+  {
+    "PK": {
+      "S": "SONG#c4872e0f-c5f1-4b7e-9830-43de7920d89e"
+    },
+    "SK": {
+      "S": "#METADATA#c4872e0f-c5f1-4b7e-9830-43de7920d89e"
+    },
+    "title": {
+      "S": "Culpa anim nulla ullamco non deserunt cupidatat et."
+    },
+    "author": {
+      "S": "Bishop"
+    },
+    "duration": {
+      "N": "583"
+    },
+    "genre": {
+      "S": "Classical"
+    },
+    "songPath": {
+      "S": "path"
+    }
+  },
+  {
+    "PK": {
+      "S": "SONG#8b31dade-8758-4f13-9b56-9c2ced2c95cc"
+    },
+    "SK": {
+      "S": "#METADATA#8b31dade-8758-4f13-9b56-9c2ced2c95cc"
+    },
+    "title": {
+      "S": "Ex eu pariatur velit esse ipsum fugiat reprehenderit."
+    },
+    "author": {
+      "S": "Conner"
+    },
+    "duration": {
+      "N": "593"
+    },
+    "genre": {
+      "S": "Electronic"
+    },
+    "songPath": {
+      "S": "path"
+    }
+  },
+  {
+    "PK": {
+      "S": "SONG#1f394610-9e6a-4196-9b3b-6eec9654ca61"
+    },
+    "SK": {
+      "S": "#METADATA#1f394610-9e6a-4196-9b3b-6eec9654ca61"
+    },
+    "title": {
+      "S": "Elit adipisicing quis enim duis velit aliquip voluptate consequat."
+    },
+    "author": {
+      "S": "Shelton"
+    },
+    "duration": {
+      "N": "364"
+    },
+    "genre": {
+      "S": "Jazz"
+    },
+    "songPath": {
+      "S": "path"
+    }
+  },
+  {
+    "PK": {
+      "S": "SONG#882b3119-96e8-4ede-b77e-afe2e8670f80"
+    },
+    "SK": {
+      "S": "#METADATA#882b3119-96e8-4ede-b77e-afe2e8670f80"
+    },
+    "title": {
+      "S": "Excepteur sit labore duis anim aliqua nulla pariatur."
+    },
+    "author": {
+      "S": "Melton"
+    },
+    "duration": {
+      "N": "9"
+    },
+    "genre": {
+      "S": "Hip-hop"
+    },
+    "songPath": {
+      "S": "path"
+    }
+  }
+]

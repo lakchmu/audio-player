@@ -1,0 +1,232 @@
+[
+  {
+    "PK": {
+      "S": "USER#brocksantana@vantage.com"
+    },
+    "SK": {
+      "S": "#METADATA#brocksantana@vantage.com"
+    },
+    "email": {
+      "S": "brocksantana@vantage.com"
+    },
+    "password": {
+      "S": "password"
+    },
+    "firstName": {
+      "S": "York"
+    },
+    "lastName": {
+      "S": "Richmond"
+    },
+    "dateOfBirth": {
+      "S": "Thu May 13 2010 23:32:35 GMT+0700 (Omsk Summer Time)"
+    }
+  },
+  {
+    "PK": {
+      "S": "USER#tanyabruce@cosmetex.com"
+    },
+    "SK": {
+      "S": "#METADATA#tanyabruce@cosmetex.com"
+    },
+    "email": {
+      "S": "tanyabruce@cosmetex.com"
+    },
+    "password": {
+      "S": "password"
+    },
+    "firstName": {
+      "S": "Ilene"
+    },
+    "lastName": {
+      "S": "Morse"
+    },
+    "dateOfBirth": {
+      "S": "Mon Aug 07 1995 05:26:23 GMT+0700 (Omsk Summer Time)"
+    }
+  },
+  {
+    "PK": {
+      "S": "USER#walteravila@zaj.com"
+    },
+    "SK": {
+      "S": "#METADATA#walteravila@zaj.com"
+    },
+    "email": {
+      "S": "walteravila@zaj.com"
+    },
+    "password": {
+      "S": "password"
+    },
+    "firstName": {
+      "S": "Bradley"
+    },
+    "lastName": {
+      "S": "Nichols"
+    },
+    "dateOfBirth": {
+      "S": "Fri Mar 14 2003 07:46:20 GMT+0600 (Omsk Standard Time)"
+    }
+  },
+  {
+    "PK": {
+      "S": "USER#pollardbass@deviltoe.com"
+    },
+    "SK": {
+      "S": "#METADATA#pollardbass@deviltoe.com"
+    },
+    "email": {
+      "S": "pollardbass@deviltoe.com"
+    },
+    "password": {
+      "S": "password"
+    },
+    "firstName": {
+      "S": "Lamb"
+    },
+    "lastName": {
+      "S": "Huff"
+    },
+    "dateOfBirth": {
+      "S": "Wed Feb 04 2004 12:56:34 GMT+0600 (Omsk Standard Time)"
+    }
+  },
+  {
+    "PK": {
+      "S": "USER#leanneromero@medicroix.com"
+    },
+    "SK": {
+      "S": "#METADATA#leanneromero@medicroix.com"
+    },
+    "email": {
+      "S": "leanneromero@medicroix.com"
+    },
+    "password": {
+      "S": "password"
+    },
+    "firstName": {
+      "S": "Little"
+    },
+    "lastName": {
+      "S": "Strickland"
+    },
+    "dateOfBirth": {
+      "S": "Thu Oct 29 2009 05:06:21 GMT+0600 (Omsk Standard Time)"
+    }
+  },
+  {
+    "PK": {
+      "S": "USER#winifredjennings@bittor.com"
+    },
+    "SK": {
+      "S": "#METADATA#winifredjennings@bittor.com"
+    },
+    "email": {
+      "S": "winifredjennings@bittor.com"
+    },
+    "password": {
+      "S": "password"
+    },
+    "firstName": {
+      "S": "Perkins"
+    },
+    "lastName": {
+      "S": "Alford"
+    },
+    "dateOfBirth": {
+      "S": "Wed Oct 06 1999 01:29:38 GMT+0700 (Omsk Summer Time)"
+    }
+  },
+  {
+    "PK": {
+      "S": "USER#jasminemcdowell@fuelton.com"
+    },
+    "SK": {
+      "S": "#METADATA#jasminemcdowell@fuelton.com"
+    },
+    "email": {
+      "S": "jasminemcdowell@fuelton.com"
+    },
+    "password": {
+      "S": "password"
+    },
+    "firstName": {
+      "S": "Gretchen"
+    },
+    "lastName": {
+      "S": "Duran"
+    },
+    "dateOfBirth": {
+      "S": "Sat Dec 06 2014 11:00:11 GMT+0600 (Omsk Standard Time)"
+    }
+  },
+  {
+    "PK": {
+      "S": "USER#whitegarner@schoolio.com"
+    },
+    "SK": {
+      "S": "#METADATA#whitegarner@schoolio.com"
+    },
+    "email": {
+      "S": "whitegarner@schoolio.com"
+    },
+    "password": {
+      "S": "password"
+    },
+    "firstName": {
+      "S": "Nichols"
+    },
+    "lastName": {
+      "S": "Evans"
+    },
+    "dateOfBirth": {
+      "S": "Wed Feb 26 2003 10:24:21 GMT+0600 (Omsk Standard Time)"
+    }
+  },
+  {
+    "PK": {
+      "S": "USER#juliahicks@dognosis.com"
+    },
+    "SK": {
+      "S": "#METADATA#juliahicks@dognosis.com"
+    },
+    "email": {
+      "S": "juliahicks@dognosis.com"
+    },
+    "password": {
+      "S": "password"
+    },
+    "firstName": {
+      "S": "Gonzalez"
+    },
+    "lastName": {
+      "S": "Fields"
+    },
+    "dateOfBirth": {
+      "S": "Wed Oct 05 2011 13:53:48 GMT+0700 (Omsk Standard Time)"
+    }
+  },
+  {
+    "PK": {
+      "S": "USER#sullivannelson@centuria.com"
+    },
+    "SK": {
+      "S": "#METADATA#sullivannelson@centuria.com"
+    },
+    "email": {
+      "S": "sullivannelson@centuria.com"
+    },
+    "password": {
+      "S": "password"
+    },
+    "firstName": {
+      "S": "Williams"
+    },
+    "lastName": {
+      "S": "Hernandez"
+    },
+    "dateOfBirth": {
+      "S": "Wed May 13 1998 02:32:30 GMT+0700 (Omsk Summer Time)"
+    }
+  }
+]

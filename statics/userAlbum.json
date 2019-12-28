@@ -1,0 +1,162 @@
+[
+  {
+    "PK": {
+      "S": "USER#brocksantana@vantage.com"
+    },
+    "SK": {
+      "S": "ALBUM#d66ff722-2b44-444d-9818-0a0744e9c757"
+    }
+  },
+  {
+    "PK": {
+      "S": "USER#tbrocksantana@vantage.com"
+    },
+    "SK": {
+      "S": "ALBUM#4337e494-e4fc-435b-8344-ad8d4e312085"
+    }
+  },
+  {
+    "PK": {
+      "S": "USER#tanyabruce@cosmetex.com"
+    },
+    "SK": {
+      "S": "ALBUM#32182dff-6bae-4eb8-97f1-e8c9d3002776"
+    }
+  },
+  {
+    "PK": {
+      "S": "USER#tanyabruce@cosmetex.com"
+    },
+    "SK": {
+      "S": "ALBUM#819a87fe-85ca-44fd-b686-6b7434e4de43"
+    }
+  },
+  {
+    "PK": {
+      "S": "USER#walteravila@zaj.com"
+    },
+    "SK": {
+      "S": "ALBUM#fcaa3c6f-9aeb-4aad-85e8-37f8ad7b8313"
+    }
+  },
+  {
+    "PK": {
+      "S": "USER#walteravila@zaj.com"
+    },
+    "SK": {
+      "S": "ALBUM#d66ff722-2b44-444d-9818-0a0744e9c757"
+    }
+  },
+  {
+    "PK": {
+      "S": "USER#pollardbass@deviltoe.com"
+    },
+    "SK": {
+      "S": "ALBUM#4337e494-e4fc-435b-8344-ad8d4e312085"
+    }
+  },
+  {
+    "PK": {
+      "S": "USER#pollardbass@deviltoe.com"
+    },
+    "SK": {
+      "S": "ALBUM#32182dff-6bae-4eb8-97f1-e8c9d3002776"
+    }
+  },
+  {
+    "PK": {
+      "S": "USER#leanneromero@medicroix.com"
+    },
+    "SK": {
+      "S": "ALBUM#819a87fe-85ca-44fd-b686-6b7434e4de43"
+    }
+  },
+  {
+    "PK": {
+      "S": "USER#leanneromero@medicroix.com"
+    },
+    "SK": {
+      "S": "ALBUM#fcaa3c6f-9aeb-4aad-85e8-37f8ad7b8313"
+    }
+  },
+  {
+    "PK": {
+      "S": "USER#winifredjennings@bittor.com"
+    },
+    "SK": {
+      "S": "ALBUM#d66ff722-2b44-444d-9818-0a0744e9c757"
+    }
+  },
+  {
+    "PK": {
+      "S": "USER#twinifredjennings@bittor.com"
+    },
+    "SK": {
+      "S": "ALBUM#4337e494-e4fc-435b-8344-ad8d4e312085"
+    }
+  },
+  {
+    "PK": {
+      "S": "USER#jasminemcdowell@fuelton.com"
+    },
+    "SK": {
+      "S": "ALBUM#32182dff-6bae-4eb8-97f1-e8c9d3002776"
+    }
+  },
+  {
+    "PK": {
+      "S": "USER#pjasminemcdowell@fuelton.com"
+    },
+    "SK": {
+      "S": "ALBUM#819a87fe-85ca-44fd-b686-6b7434e4de43"
+    }
+  },
+  {
+    "PK": {
+      "S": "USER#whitegarner@schoolio.com"
+    },
+    "SK": {
+      "S": "ALBUM#fcaa3c6f-9aeb-4aad-85e8-37f8ad7b8313"
+    }
+  },
+  {
+    "PK": {
+      "S": "USER#Uwhitegarner@schoolio.com"
+    },
+    "SK": {
+      "S": "ALBUM#d66ff722-2b44-444d-9818-0a0744e9c757"
+    }
+  },
+  {
+    "PK": {
+      "S": "USER#juliahicks@dognosis.com"
+    },
+    "SK": {
+      "S": "ALBUM#4337e494-e4fc-435b-8344-ad8d4e312085"
+    }
+  },
+  {
+    "PK": {
+      "S": "USER#juliahicks@dognosis.com"
+    },
+    "SK": {
+      "S": "ALBUM#32182dff-6bae-4eb8-97f1-e8c9d3002776"
+    }
+  },
+  {
+    "PK": {
+      "S": "USER#sullivannelson@centuria.com"
+    },
+    "SK": {
+      "S": "ALBUM#819a87fe-85ca-44fd-b686-6b7434e4de43"
+    }
+  },
+  {
+    "PK": {
+      "S": "USER#sullivannelson@centuria.com"
+    },
+    "SK": {
+      "S": "ALBUM#fcaa3c6f-9aeb-4aad-85e8-37f8ad7b8313"
+    }
+  }
+]
