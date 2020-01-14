@@ -10,4 +10,4 @@ User.serialize = ({ Item: item }) => {
     lastName: item.lastName.S,
     dateOfBirth: item.dateOfBirth.S,
   };
-}
+};

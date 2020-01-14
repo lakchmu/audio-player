@@ -5,6 +5,8 @@
   "author": "Kurmaeva Daria",
   "license": "MIT",
   "dependencies": {
+    "@svgr/webpack": "^5.0.1",
+    "@zeit/next-css": "^1.0.1",
     "@zeit/next-sass": "^1.0.1",
     "aws-sdk": "^2.594.0",
     "axios": "^0.19.0",
@@ -13,8 +15,10 @@
     "isomorphic-unfetch": "^3.0.0",
     "next": "^9.1.6",
     "node-sass": "^4.13.0",
+    "rc-slider": "^8.7.1",
     "react": "^16.12.0",
-    "react-dom": "^16.12.0"
+    "react-dom": "^16.12.0",
+    "react-player": "^1.14.2"
   },
   "devDependencies": {
     "@types/node": "^12.12.20",

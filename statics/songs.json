@@ -7,7 +7,7 @@
       "S": "#METADATA#3134ce5d-a27a-4f38-92ec-e1b9943ca519"
     },
     "title": {
-      "S": "Consectetur dolor et aute anim officia voluptate labore cillum culpa velit."
+      "S": "Moana 1"
     },
     "author": {
       "S": "Logan"
@@ -19,7 +19,7 @@
       "S": "Country"
     },
     "songPath": {
-      "S": "path"
+      "S": "/audio/moana_1.mp3"
     }
   },
   {
@@ -30,7 +30,7 @@
       "S": "#METADATA#3696f05e-7097-4955-b755-8f8c36dc3a7e"
     },
     "title": {
-      "S": "Reprehenderit eiusmod culpa enim reprehenderit anim."
+      "S": "Moana 2"
     },
     "author": {
       "S": "Wheeler"
@@ -42,7 +42,7 @@
       "S": "Folk"
     },
     "songPath": {
-      "S": "path"
+      "S": "/audio/moana_2.mp3"
     }
   },
   {

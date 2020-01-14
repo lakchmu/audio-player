@@ -9,7 +9,6 @@ export default (req, res) => {
       'PK': { 'S': 'USER#brocksantana@vantage.com' },
       'SK': { 'S': '#METADATA#brocksantana@vantage.com' },
     },
-    // ProjectionExpression: 'email',
   };
 
   dynamodb.getItem(params, (err, user) => {
