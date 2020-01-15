@@ -1,8 +1,12 @@
 import fetch from 'isomorphic-unfetch';
+import { inject, observer } from 'mobx-react';
+import { NextPage } from 'next';
+
 import '../styles/styles.sass';
 import Player from './player';
 
-const Home = ({ currentUser, song }) => {
+const Home: NextPage<any> = inject('store')(observer(({ currentUser, song, store }) => {
+  store.setCurrentUser(currentUser);
   const { firstName } = currentUser;
 
   return (
@@ -11,7 +15,7 @@ const Home = ({ currentUser, song }) => {
       <Player song={song} />
     </div>
   );
-};
+}));
 
 Home.getInitialProps = async () => {
   let response = await fetch('http://localhost:3000/api/users');
