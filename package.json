@@ -11,6 +11,7 @@
     "aws-sdk": "^2.594.0",
     "axios": "^0.19.0",
     "bulma": "^0.8.0",
+    "bunyan": "^1.8.12",
     "dynamodb-admin": "^3.2.0",
     "isomorphic-unfetch": "^3.0.0",
     "mobx": "^5.15.2",
@@ -23,6 +24,7 @@
     "react-player": "^1.14.2"
   },
   "devDependencies": {
+    "@types/bunyan": "^1.8.6",
     "@types/node": "^12.12.20",
     "@types/react": "^16.9.16",
     "@typescript-eslint/eslint-plugin": "^2.12.0",

@@ -2,9 +2,12 @@ import { NextApiRequest, NextApiResponse } from 'next';
 
 import dynamodb from '../../../services/db';
 import { TABLE_NAME } from '../../../services/config';
+import log from '../../../services/logger';
 import User, { UserType } from '../../../models/user';
 
 export default (req: NextApiRequest, res: NextApiResponse): void => {
+  log.info('GET /users');
+
   const params = {
     TableName: TABLE_NAME,
     Key: {

@@ -1,10 +1,13 @@
 import { NextApiRequest, NextApiResponse } from 'next';
 
 import dynamodb from '../../../services/db';
+import log from '../../../services/logger';
 import { TABLE_NAME } from '../../../services/config';
 import Song, { SongType } from '../../../models/song';
 
 export default (req: NextApiRequest, res: NextApiResponse): void => {
+  log.info('GET /songs');
+
   const params = {
     TableName: TABLE_NAME,
     Key: {
