@@ -4,8 +4,12 @@ import { NextPage } from 'next';
 
 import '../styles/styles.sass';
 import Player from './player';
+import { SerializedUserType as UserType } from '../models/user';
+import { SerializedSongType as SongType } from '../models/song';
 
-const Home: NextPage<any> = inject('store')(observer(({ currentUser, song, store }) => {
+interface HomeProps { currentUser: UserType; song: SongType; store?: any }
+
+const Home: NextPage<HomeProps> = inject('store')(observer(({ currentUser, song, store }) => {
   store.setCurrentUser(currentUser);
   const { firstName } = currentUser;
 
@@ -17,14 +21,16 @@ const Home: NextPage<any> = inject('store')(observer(({ currentUser, song, store
   );
 }));
 
-Home.getInitialProps = async () => {
-  let response = await fetch('http://localhost:3000/api/users');
+type GetInitialPropsType = { currentUser: UserType ; song: any };
 
-  const currentUser = await response.json();
+Home.getInitialProps = async (): Promise<GetInitialPropsType> => {
+  const userData = await fetch('http://localhost:3000/api/users');
 
-  response = await fetch('http://localhost:3000/api/songs');
+  const currentUser = await userData.json();
 
-  const song = await response.json();
+  const songData = await fetch('http://localhost:3000/api/songs');
+
+  const song = await songData.json();
 
   return { currentUser, song };
 };

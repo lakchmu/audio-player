@@ -18,7 +18,7 @@
     "genre": {
       "S": "Country"
     },
-    "songPath": {
+    "path": {
       "S": "/audio/moana_1.mp3"
     }
   },
@@ -41,7 +41,7 @@
     "genre": {
       "S": "Folk"
     },
-    "songPath": {
+    "path": {
       "S": "/audio/moana_2.mp3"
     }
   },
@@ -64,7 +64,7 @@
     "genre": {
       "S": "Electronic"
     },
-    "songPath": {
+    "path": {
       "S": "path"
     }
   },
@@ -87,7 +87,7 @@
     "genre": {
       "S": "Country"
     },
-    "songPath": {
+    "path": {
       "S": "path"
     }
   },
@@ -110,7 +110,7 @@
     "genre": {
       "S": "Country"
     },
-    "songPath": {
+    "path": {
       "S": "path"
     }
   },
@@ -133,7 +133,7 @@
     "genre": {
       "S": "Electronic"
     },
-    "songPath": {
+    "path": {
       "S": "path"
     }
   },
@@ -156,7 +156,7 @@
     "genre": {
       "S": "Classical"
     },
-    "songPath": {
+    "path": {
       "S": "path"
     }
   },
@@ -179,7 +179,7 @@
     "genre": {
       "S": "Electronic"
     },
-    "songPath": {
+    "path": {
       "S": "path"
     }
   },
@@ -202,7 +202,7 @@
     "genre": {
       "S": "Jazz"
     },
-    "songPath": {
+    "path": {
       "S": "path"
     }
   },
@@ -225,7 +225,7 @@
     "genre": {
       "S": "Hip-hop"
     },
-    "songPath": {
+    "path": {
       "S": "path"
     }
   }
