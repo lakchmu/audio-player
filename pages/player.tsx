@@ -22,7 +22,7 @@ const Player = ({ song }) => {
 
   const player = createRef<ReactPlayer>();
 
-  const time = 122;
+  // const time = 122;
 
   useEffect(() => {
     setUrl(song.path);

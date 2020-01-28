@@ -2,7 +2,7 @@ import AWS from 'aws-sdk';
 import { ServiceConfigurationOptions } from 'aws-sdk/lib/service';
 
 const serviceConfigOptions: ServiceConfigurationOptions = {
-  region: 'us-east-1',
+  region: 'local',
   endpoint: 'http://localhost:8000',
 };
 

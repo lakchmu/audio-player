@@ -6,7 +6,7 @@ const albumSong = require('../statics/albumSong.json');
 const userAlbum = require('../statics/userAlbum.json');
 
 AWS.config.update({
-  region: 'us-east-1',
+  region: 'local',
   endpoint: 'http://localhost:8000',
 });
 
