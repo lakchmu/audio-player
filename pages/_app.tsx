@@ -6,7 +6,7 @@ import Store from '../store';
 
 class MyApp extends App {
   state = {
-    store: Store,
+    store: new Store(),
   }
 
   render() {

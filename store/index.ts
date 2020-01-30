@@ -1,16 +1,24 @@
 import { action, observable } from 'mobx';
 import { useStaticRendering } from 'mobx-react';
 
+import { SerializedUserType as UserType } from '../models/user';
+
 const isServer = typeof window === 'undefined';
 useStaticRendering(isServer);
 
-const Store = observable({
-  currentUser: {},
-});
+interface StateInterface {
+  currentUser: UserType;
+}
 
-export default Object.assign(
-  Store,
-  {
-    setCurrentUser: action((currentUser) => { Store.currentUser = currentUser; }),
-  },
-);
+export interface StoreInterface {
+  state: StateInterface;
+  setCurrentUser: Function;
+  (): void;
+}
+
+const Store = function () {
+  this.state = observable({ currentUser: {} });
+  this.setCurrentUser = action((currentUser: UserType) => { this.state.currentUser = currentUser; });
+} as StoreInterface;
+
+export default Store;
